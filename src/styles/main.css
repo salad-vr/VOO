@@ -392,8 +392,13 @@ p {
 }
 
 .skull-mark {
-  width: 104px;
-  color: var(--cream);
+  width: 118px;
+  opacity: 0.92;
+  filter: drop-shadow(0 14px 24px rgba(0,0,0,0.18));
+}
+
+.skull-mark img {
+  width: 100%;
 }
 
 .home-support-visual p {
