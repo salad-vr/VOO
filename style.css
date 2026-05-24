@@ -704,6 +704,61 @@ p {
   margin-bottom: 1.5rem;
 }
 
+.ticket-checkout {
+  display: grid;
+  grid-template-columns: 0.95fr 1.05fr;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 4.5rem;
+  padding: 3rem;
+  background: var(--white);
+  border: 1px solid var(--cream-dark);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+}
+
+.ticket-copy h3 {
+  margin-bottom: 1rem;
+}
+
+.ticket-notes {
+  list-style: none;
+  margin-top: 1.5rem;
+}
+
+.ticket-notes li {
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--cream-dark);
+  color: var(--text-secondary);
+}
+
+.ticket-form-card {
+  padding: 2rem;
+  background: var(--cream);
+  border-left: 4px solid var(--gold);
+}
+
+.ticket-form-card h4 {
+  margin-bottom: 1.5rem;
+}
+
+.ticket-summary {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  background: var(--white);
+  border: 1px solid var(--cream-dark);
+}
+
+.ticket-summary span {
+  color: var(--text-secondary);
+}
+
+.ticket-summary strong {
+  color: var(--burgundy);
+}
+
 .support-amount {
   font-family: var(--font-heading);
   font-size: 2rem;
@@ -907,6 +962,11 @@ p {
   
   .form-row {
     grid-template-columns: 1fr;
+  }
+
+  .ticket-checkout {
+    grid-template-columns: 1fr;
+    padding: 2rem;
   }
   
   .footer-grid {
