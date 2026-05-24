@@ -1,10 +1,10 @@
-# The Kappa Alpha Literary Society at Western University
+# The Kappa Alpha Literary Society at the University of Western Ontario
 
 ## Website Concept for VOO, London, Ontario
 
-This concept is for the Western University chapter of the Kappa Alpha Literary Society, known locally as VOO. It is not a national Kappa Alpha Society website. The site should feel like a serious chapter hub for students, alumni, parents, community members, and prospective members.
+This concept is for the University of Western Ontario chapter of the Kappa Alpha Literary Society, known locally as VOO. It is not a national Kappa Alpha Society website. The site should feel like a serious chapter hub for students, alumni, parents, community members, and prospective members.
 
-The tone should be elegant, literary, warm, credible, and grounded in Western University chapter life. The site should avoid generic fraternity tropes, party-forward language, hype-page energy, and an overdone secret society aesthetic. VOO should come across as a local institution with a long memory: serious about conversation, brotherhood, alumni tradition, events, and life at the Lodge.
+The tone should be elegant, literary, warm, credible, and grounded in chapter life at the University of Western Ontario. The site should avoid generic fraternity tropes, party-forward language, hype-page energy, and an overdone secret society aesthetic. VOO should come across as a local institution with a long memory: serious about conversation, brotherhood, alumni tradition, events, and life at the Lodge.
 
 ## 1. Recommended Sitemap
 
@@ -41,7 +41,7 @@ Suggested footer navigation:
 
 Footer positioning line:
 
-The Kappa Alpha Literary Society at Western University, VOO, founded at Western in 1948. London, Ontario.
+The Kappa Alpha Literary Society at the University of Western Ontario, VOO, founded at the University of Western Ontario in 1948. London, Ontario.
 
 ## 2. Homepage Wireframe
 
@@ -58,11 +58,11 @@ Purpose: Establish local identity, tone, and credibility immediately.
 
 Elements:
 
-- Eyebrow: Western University | London, Ontario | Founded at Western in 1948
-- Headline: A Literary Brotherhood at Western University
-- Subheading: VOO is the Western University chapter of the Kappa Alpha Literary Society, a chapter rooted in conversation, brotherhood, open discussion, alumni tradition, and life at the Lodge.
+- Eyebrow: University of Western Ontario | London, Ontario | Founded at the University of Western Ontario in 1948
+- Headline: A Literary Brotherhood at the University of Western Ontario
+- Subheading: VOO is the University of Western Ontario chapter of the Kappa Alpha Literary Society, a chapter rooted in conversation, brotherhood, open discussion, alumni tradition, and life at the Lodge.
 - Buttons: Learn About VOO, Attend an Event, Connect With Us
-- Visual: Archival-style Lodge image, formal chapter photo, books and wood detail, or Western campus image
+- Visual: Archival-style Lodge image, formal chapter photo, books and wood detail, or University of Western Ontario campus image
 
 ### What Is VOO?
 
@@ -70,7 +70,7 @@ Purpose: Give visitors a short, plain-language explanation.
 
 Elements:
 
-- Short paragraph explaining VOO as a local literary fraternity at Western University
+- Short paragraph explaining VOO as a local literary fraternity at the University of Western Ontario
 - Emphasis on conversation, intellectual life, brotherhood, alumni, events, and the Lodge
 - Link: Read Our Story
 
@@ -141,7 +141,7 @@ Audience: prospective members, parents, alumni, students, community members.
 
 Goals:
 
-- Establish VOO as the Western University chapter, not the national site.
+- Establish VOO as the University of Western Ontario chapter, not the national site.
 - Communicate literary identity, brotherhood, and Lodge life.
 - Surface events, alumni connection, support, and social channels.
 
@@ -167,13 +167,13 @@ Goals:
 
 Sections:
 
-- Opening statement: The Kappa Alpha Literary Society at Western University
+- Opening statement: The Kappa Alpha Literary Society at the University of Western Ontario
 - Local identity: VOO in London, Ontario
 - Culture: open discussion, philosophy, poetry, formal conversation, brotherhood, alumni, and chapter life
 - The Lodge as a place where chapter life gathers
 - Timeline:
   - 1825: Kappa Alpha founded as a literary society.
-  - 1948: VOO founded at Western University.
+  - 1948: VOO founded at the University of Western Ontario.
   - Today: VOO continues through discussion, events, alumni ties, and Lodge life.
 - Closing call to action: Attend an event or contact the chapter
 
@@ -220,7 +220,7 @@ Sections:
 - Who should reach out:
   - Students interested in discussion, literature, philosophy, debate, history, arts, leadership, service, or serious friendship
   - Students looking for chapter life beyond a standard social calendar
-  - Students who want to contribute to a long-standing Western tradition
+  - Students who want to contribute to a long-standing University of Western Ontario tradition
 - What to expect:
   - Conversations with members
   - Open events
@@ -228,7 +228,7 @@ Sections:
   - Respectful questions both ways
 - Interest form concept:
   - Name
-  - Western email
+  - UWO email
   - Program / year
   - Areas of interest
   - How did you hear about VOO?
@@ -443,15 +443,15 @@ Sections:
 
 Eyebrow:
 
-Western University | London, Ontario | Founded at Western in 1948
+University of Western Ontario | London, Ontario | Founded at the University of Western Ontario in 1948
 
 Headline:
 
-A Literary Brotherhood at Western University
+A Literary Brotherhood at the University of Western Ontario
 
 Subheading:
 
-VOO is the Western University chapter of the Kappa Alpha Literary Society: a literary fraternity shaped by conversation, open discussion, brotherhood, alumni tradition, and life at the Lodge.
+VOO is the University of Western Ontario chapter of the Kappa Alpha Literary Society: a literary fraternity shaped by conversation, open discussion, brotherhood, alumni tradition, and life at the Lodge.
 
 Primary buttons:
 
@@ -461,9 +461,9 @@ Primary buttons:
 
 ### What Is VOO?
 
-VOO is the local Western University chapter of the Kappa Alpha Literary Society. Founded at Western in 1948, the chapter carries forward a literary and debating tradition through conversation, philosophy, poetry, formal gatherings, alumni connection, and everyday life at the Lodge.
+VOO is the local University of Western Ontario chapter of the Kappa Alpha Literary Society. Founded at the University of Western Ontario in 1948, the chapter carries forward a literary and debating tradition through conversation, philosophy, poetry, formal gatherings, alumni connection, and everyday life at the Lodge.
 
-This is a chapter built around thoughtful company. Members come together for discussion, friendship, events, service, and the shared responsibility of keeping a long-standing Western tradition alive.
+This is a chapter built around thoughtful company. Members come together for discussion, friendship, events, service, and the shared responsibility of keeping a long-standing University of Western Ontario tradition alive.
 
 Button:
 
@@ -485,7 +485,7 @@ Button: Meet the Chapter
 
 The Lodge:
 
-The Lodge is the chapter home: a place for meetings, dinners, alumni gatherings, late conversations, and the continuity of VOO at Western.
+The Lodge is the chapter home: a place for meetings, dinners, alumni gatherings, late conversations, and the continuity of VOO at the University of Western Ontario.
 
 Button: Learn About the Lodge
 
@@ -735,7 +735,7 @@ Core identity:
 
 Chapter history:
 
-- Confirmation of Western founding year and key milestones
+- Confirmation of University of Western Ontario founding year and key milestones
 - Short written chapter history
 - Archival photos, letters, programs, or event materials
 - Names and dates for notable past officers or alumni where appropriate
@@ -804,9 +804,9 @@ Governance and review:
 
 Palette:
 
-- Deep green
-- Burgundy
-- Cream
+- Western Ontario purple
+- Deep plum
+- Ivory
 - Charcoal
 - Warm gold accents
 
@@ -820,7 +820,7 @@ Imagery:
 
 - Archival-style chapter photography
 - Lodge details: wood, books, table settings, old programs, exterior details
-- Western campus imagery
+- University of Western Ontario campus imagery
 - Formal chapter photos
 - Alumni gatherings
 - Event candids that feel composed and respectful

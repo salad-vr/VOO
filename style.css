@@ -1,17 +1,17 @@
-/* VOO Website Styles - Dark Academic, Elegant, Literary */
+/* VOO Website Styles - Western Ontario, Dark Academic, Elegant, Literary */
 
 :root {
-  /* Color Palette */
-  --deep-green: #1a3a2f;
-  --deep-green-light: #234b3d;
-  --burgundy: #6b2d3c;
-  --burgundy-light: #8b3d50;
-  --cream: #f5f0e8;
-  --cream-dark: #e8e0d4;
+  /* Color Palette: University of Western Ontario-inspired purple, ivory, charcoal, and gold */
+  --deep-green: #2b1648;
+  --deep-green-light: #3d2263;
+  --burgundy: #4f2683;
+  --burgundy-light: #6f4aa3;
+  --cream: #f7f2e8;
+  --cream-dark: #e9dfcf;
   --charcoal: #2c2c2c;
   --charcoal-light: #3d3d3d;
-  --gold: #c9a959;
-  --gold-light: #d4b96a;
+  --gold: #d6b45f;
+  --gold-light: #e3c778;
   --white: #ffffff;
   --text-primary: #2c2c2c;
   --text-secondary: #5a5a5a;
@@ -169,7 +169,7 @@ p {
 
 .logo {
   font-family: var(--font-heading);
-  font-size: 1.6rem;
+  font-size: 1.45rem;
   font-weight: 700;
   color: var(--cream);
   letter-spacing: 1px;
@@ -188,12 +188,12 @@ p {
 .nav-desktop {
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1.15rem;
 }
 
 .nav-desktop a {
   color: var(--cream);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   font-weight: 500;
   letter-spacing: 0.5px;
   text-transform: uppercase;
