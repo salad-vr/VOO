@@ -392,9 +392,9 @@ p {
 }
 
 .skull-mark {
-  width: 118px;
-  opacity: 0.92;
-  filter: drop-shadow(0 14px 24px rgba(0,0,0,0.18));
+  width: 86px;
+  opacity: 0.9;
+  filter: drop-shadow(0 12px 20px rgba(0,0,0,0.16));
 }
 
 .skull-mark img {
