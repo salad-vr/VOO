@@ -2,16 +2,16 @@
 
 :root {
   /* Color Palette: University of Western Ontario-inspired purple, ivory, charcoal, and gold */
-  --deep-green: #2b1648;
-  --deep-green-light: #3d2263;
+  --deep-green: #4f2683;
+  --deep-green-light: #6d4aa0;
   --burgundy: #4f2683;
-  --burgundy-light: #6f4aa3;
-  --cream: #f7f2e8;
-  --cream-dark: #e9dfcf;
+  --burgundy-light: #6d4aa0;
+  --cream: #f8f5ee;
+  --cream-dark: #eee7dc;
   --charcoal: #2c2c2c;
   --charcoal-light: #3d3d3d;
-  --gold: #d6b45f;
-  --gold-light: #e3c778;
+  --gold: #c7a94f;
+  --gold-light: #d8bf6a;
   --white: #ffffff;
   --text-primary: #2c2c2c;
   --text-secondary: #5a5a5a;
@@ -162,6 +162,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 3rem;
   padding: 1rem var(--container-padding);
   max-width: var(--container-max);
   margin: 0 auto;
@@ -188,16 +189,21 @@ p {
 .nav-desktop {
   display: flex;
   align-items: center;
-  gap: 1.15rem;
+  gap: 1.65rem;
+  margin-left: auto;
 }
 
 .nav-desktop a {
   color: var(--cream);
-  font-size: 0.82rem;
+  font-size: 0.86rem;
   font-weight: 500;
   letter-spacing: 0.5px;
   text-transform: uppercase;
   position: relative;
+}
+
+.nav-desktop a[href="join.html"] {
+  display: none;
 }
 
 .nav-desktop a::after {
@@ -220,8 +226,7 @@ p {
 }
 
 .nav-actions {
-  display: flex;
-  gap: 1rem;
+  display: none;
 }
 
 .nav-actions .btn {
@@ -241,7 +246,7 @@ p {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, var(--deep-green) 0%, var(--charcoal) 100%);
+  background: linear-gradient(135deg, #4f2683 0%, #2c1d3d 68%, #242124 100%);
   color: var(--cream);
   padding: 8rem 0 6rem;
   position: relative;
