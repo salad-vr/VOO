@@ -518,6 +518,18 @@ p {
   margin-bottom: 1.5rem;
 }
 
+.notable-grid .feature-card {
+  padding: 2rem;
+}
+
+.notable-line {
+  margin-bottom: 0;
+  color: var(--burgundy);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
 /* Event Cards */
 .event-card {
   background-color: var(--white);
@@ -1095,6 +1107,14 @@ p {
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 2px;
+}
+
+.quote-source {
+  margin-top: 0.35rem;
+  color: var(--cream-dark);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 /* Utility Classes */
