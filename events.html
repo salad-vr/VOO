@@ -7,16 +7,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="/src/styles/main.css">
 </head>
 <body>
   <!-- Header -->
   <header class="header">
     <div class="header-inner">
-      <a href="index.html" class="logo">
-        VOO
-        <span>University of Western Ontario</span>
-      </a>
+      <a href="index.html" class="logo">KA</a>
       <nav class="nav-desktop">
         <a href="about.html">About VOO</a>
         <a href="events.html">Events</a>
@@ -48,7 +45,7 @@
   </section>
 
   <!-- Upcoming Events -->
-  <section class="section">
+  <section class="section" id="upcoming-events">
     <div class="container">
       <div class="section-header">
         <h2>Upcoming Events</h2>
@@ -65,7 +62,10 @@
             <h4>An Evening of Readings</h4>
             <p>An evening of readings, conversation, and informal reflection at the Lodge. Members and invited guests share poetry, prose, and ideas over a glass of wine.</p>
             <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem;"><strong>Location:</strong> The Lodge | <strong>Time:</strong> 7:00 PM</p>
-            <a href="#event-tickets" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.5rem 1rem; margin-top: 1rem;">Tickets</a>
+            <div class="event-actions">
+              <a href="#event-tickets" class="btn btn-secondary">View Event</a>
+              <a href="#event-tickets" class="btn btn-primary">Tickets</a>
+            </div>
           </div>
         </div>
         <div class="event-card">
@@ -78,9 +78,9 @@
             <h4>Moderated Discussion</h4>
             <p>A moderated discussion on a selected question, open to members and invited guests. This month's topic will be announced one week prior.</p>
             <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem;"><strong>Location:</strong> The Lodge | <strong>Time:</strong> 6:30 PM</p>
-            <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 1rem;">
-              <a href="#" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.5rem 1rem;">View Event</a>
-              <a href="#event-tickets" class="btn btn-primary" style="font-size: 0.8rem; padding: 0.5rem 1rem;">RSVP</a>
+            <div class="event-actions">
+              <a href="#event-tickets" class="btn btn-secondary">View Event</a>
+              <a href="#event-tickets" class="btn btn-primary">RSVP</a>
             </div>
           </div>
         </div>
@@ -94,7 +94,10 @@
             <h4>Meet the Chapter</h4>
             <p>An informal evening for prospective members to meet active brothers, learn about VOO traditions, and ask questions about chapter life.</p>
             <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem;"><strong>Location:</strong> The Lodge | <strong>Time:</strong> 5:00 PM</p>
-            <a href="join.html" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.5rem 1rem; margin-top: 1rem;">Learn About Rush</a>
+            <div class="event-actions">
+              <a href="#event-tickets" class="btn btn-secondary">View Event</a>
+              <a href="#event-tickets" class="btn btn-primary">RSVP</a>
+            </div>
           </div>
         </div>
         <div class="event-card">
@@ -107,7 +110,10 @@
             <h4>Reconnect and Share</h4>
             <p>A gathering for alumni and the active chapter to reconnect, share stories, and look ahead. Dinner will be served at the Lodge.</p>
             <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem;"><strong>Location:</strong> The Lodge | <strong>Time:</strong> 6:00 PM</p>
-            <a href="#event-tickets" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.5rem 1rem; margin-top: 1rem;">Tickets</a>
+            <div class="event-actions">
+              <a href="#event-tickets" class="btn btn-secondary">View Event</a>
+              <a href="#event-tickets" class="btn btn-primary">Tickets</a>
+            </div>
           </div>
         </div>
         <div class="event-card">
@@ -120,7 +126,10 @@
             <h4>Christmas Formal</h4>
             <p>Our annual Christmas Formal brings together members, alumni, and guests for an evening of dinner, toasts, and celebration of the year past.</p>
             <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem;"><strong>Location:</strong> The Lodge | <strong>Time:</strong> 7:00 PM</p>
-            <a href="contact.html" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.5rem 1rem; margin-top: 1rem;">Ask About Attending</a>
+            <div class="event-actions">
+              <a href="#event-tickets" class="btn btn-secondary">View Event</a>
+              <a href="#event-tickets" class="btn btn-primary">Tickets</a>
+            </div>
           </div>
         </div>
         <div class="event-card">
@@ -133,7 +142,10 @@
             <h4>Winter Symposium</h4>
             <p>A formal evening of prepared presentations and moderated discussion on a chosen theme. Members and invited alumni participate.</p>
             <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem;"><strong>Location:</strong> The Lodge | <strong>Time:</strong> 6:30 PM</p>
-            <a href="contact.html" class="btn btn-secondary" style="font-size: 0.8rem; padding: 0.5rem 1rem; margin-top: 1rem;">Ask About Attending</a>
+            <div class="event-actions">
+              <a href="#event-tickets" class="btn btn-secondary">View Event</a>
+              <a href="#event-tickets" class="btn btn-primary">RSVP</a>
+            </div>
           </div>
         </div>
       </div>
@@ -142,12 +154,15 @@
         <div class="ticket-copy">
           <div class="event-meta">Tickets / RSVP</div>
           <h3>Reserve Your Place</h3>
-          <p>Select an event, enter your guest details, and confirm your ticket or RSVP. After confirmation, you will be presented with a QR code and emailed a copy for check-in.</p>
+          <p>Select an event, enter your guest details, and confirm your ticket or RSVP. Paid events show the ticket price before confirmation. After checkout, you will be presented with a QR code and emailed a copy for check-in.</p>
           <p>Your name will be saved to the event guest list so officers can verify attendance at the door. Ticketed events and free RSVP events use the same simple check-in flow.</p>
           <ul class="ticket-notes">
-            <li>Wine & Poetry: ticketed event</li>
-            <li>Open Philosophical: RSVP event</li>
-            <li>Alumni Reunion: ticketed event</li>
+            <li>Wine & Poetry: $20 ticket</li>
+            <li>Open Philosophical: free RSVP</li>
+            <li>Rush Event: free RSVP</li>
+            <li>Alumni Reunion: $45 ticket</li>
+            <li>Christmas Formal: $65 ticket</li>
+            <li>Winter Symposium: free RSVP</li>
           </ul>
         </div>
         <div class="ticket-form-card">
@@ -156,9 +171,12 @@
             <div class="form-group">
               <label for="ticket-event">Event</label>
               <select id="ticket-event" name="ticket-event">
-                <option>Wine & Poetry — Ticket</option>
-                <option>Open Philosophical — RSVP</option>
-                <option>Alumni Reunion — Ticket</option>
+                <option>Wine & Poetry — $20 ticket</option>
+                <option>Open Philosophical — free RSVP</option>
+                <option>Rush Event — free RSVP</option>
+                <option>Alumni Reunion — $45 ticket</option>
+                <option>Christmas Formal — $65 ticket</option>
+                <option>Winter Symposium — free RSVP</option>
               </select>
             </div>
             <div class="form-row">
@@ -192,10 +210,15 @@
               </div>
             </div>
             <div class="ticket-summary">
-              <span>Confirmation</span>
-              <strong>QR code + guest list entry</strong>
+              <span>Estimated total</span>
+              <strong>$20.00 CAD</strong>
             </div>
-            <button type="submit" class="btn btn-primary" style="width: 100%;">Confirm Ticket / RSVP</button>
+            <div class="ticket-summary ticket-summary-muted">
+              <span>Confirmation includes</span>
+              <strong>QR code + emailed receipt + guest list entry</strong>
+            </div>
+            <button type="submit" class="btn btn-primary" style="width: 100%;">Continue to Checkout</button>
+            <p class="ticket-disclaimer">This is a front-end checkout concept. A real payment flow would be connected later by the chapter's chosen provider.</p>
           </form>
         </div>
       </div>

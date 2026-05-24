@@ -184,7 +184,7 @@ p {
   width: 42px;
   height: 52px;
   flex: 0 0 auto;
-  background: url('assets/ka-logo.svg') center / contain no-repeat;
+  background: url('/images/ka-logo.svg') center / contain no-repeat;
 }
 
 .logo span {
@@ -499,6 +499,18 @@ p {
   color: var(--charcoal);
 }
 
+.event-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.event-actions .btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+}
+
 .event-meta {
   font-size: 0.85rem;
   color: var(--burgundy);
@@ -789,6 +801,17 @@ p {
 
 .ticket-summary strong {
   color: var(--burgundy);
+}
+
+.ticket-summary-muted {
+  align-items: flex-start;
+  font-size: 0.9rem;
+}
+
+.ticket-disclaimer {
+  margin: 1rem 0 0;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
 }
 
 .support-amount {
